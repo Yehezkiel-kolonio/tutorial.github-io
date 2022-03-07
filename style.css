@@ -1,0 +1,129 @@
+html {
+	scroll-behavior: smooth;
+}
+
+
+
+/* NAVBAR */
+.navbar {
+	background-color: #BD97CB;
+}
+
+.nav-link:hover {
+	background-color: grey;
+}
+
+.dropdown-item:hover {
+	background-color: grey;
+}
+
+/* JUMBOTRON */
+
+.jumbotron {
+	background-image: url(img/bg.jpg);
+	height: 620px;
+	background-size: cover;
+}
+
+.jumbotron .display-4 {
+	color: #FFFFFF;
+	font-size: 70px;
+	font-weight: bold;
+	margin-top: 100px;
+}
+
+.jumbotron h2 {
+	color: #FFFFFF;
+	font-size: 50px;
+}
+
+
+/* JUDUL */
+
+h3 {
+	color: #000000;
+}
+
+.gmim {
+	margin-top: 70px;
+}
+
+
+hr	{
+	width: 300px;
+	background-color: #000000;
+	border-width: 2px;
+	border-top: 3px solid ;
+}
+
+.btn {
+	margin-top: 25px;
+}
+
+.pimpinan {
+	font-size: 15px;
+	margin-top: 5px;
+}
+
+
+/* CARD */
+
+.card {
+	margin-top: 10px;
+}
+
+.card-body .sm {
+	color: red;
+	margin-top: -10px;
+}
+
+.card-body .card-text {
+	margin-top: -10px;
+
+}
+
+.card-body .btn {
+	margin-top: -7px;
+}
+
+/* EMBED */
+
+.embed-responsive {
+	margin-top: 70px;
+	width: 75%;
+	margin-left: 150px;
+	margin-bottom: 100px;
+}
+
+/* CONTACT US */
+
+.form-group {
+	margin-top: 30px;
+}
+
+.send {
+	margin-top: 10px;
+}
+
+
+/* TABLE UPK */
+
+.table {
+	margin-top: 70px;
+}
+
+
+.pelsus {
+	margin-top: 100px;
+	margin-left: 120px;
+}
+
+
+.list-unstyled {
+	margin-top: 120px;
+}
+
+.media .mr-3 {
+	width: 500px;
+}
+
